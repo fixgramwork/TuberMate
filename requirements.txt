@@ -1,0 +1,5 @@
+prophet
+pytrends
+plotly
+pandas
+matplotlib
